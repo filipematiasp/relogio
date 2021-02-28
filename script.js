@@ -14,5 +14,3 @@ setInterval(() => {
     ph.style.transform = `rotate(${(hour - 12) * 30}deg)`;
     
 }, 500);
-
-//testes
